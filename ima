@@ -1,0 +1,35 @@
+[
+	{
+		"name": "???",
+		"leaderName": "???",
+		"adjective": ["?"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Who are you????!!!!",
+		"startIntroPart2": "I....?You....?"
+		
+		"declaringWar": "Darkness is coming",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "We are always watching",
+		"introduction": "...",
+		
+		"neutralHello": "...",
+		"neutralLetsHearIt": ["Speak"],
+		"neutralNo": ["[Blade]"],
+		"neutralYes": ["???"],
+
+		"hateHello": "!!!",
+		"hateLetsHearIt": ["??????!!!!!"],
+		"hateNo": ["You shall disappear like the rest of us"],
+		"hateYes": ["Agreed"],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "Say yes or die",
+
+		"outerColor": [0,0,0],
+		"innerColor": [0,0,0],
+		"unique": "The Void",
+		"cities": ["???"]
+	}
+]
