@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"name": "Illuminati",
+		"unitType": "Melee",
+		"uniqueTo": "???",
+		"replaces": "Warrior",
+		"movement": 20,
+		"strength": 900,
+		"rangedStrength": 500,
+		"range": 6,
+		"cost": 10,
+		"requiredTech": "Writing",
+		"requiredResource": "Gold",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "Hi"
 	}
 ]
