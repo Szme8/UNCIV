@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
+		"name": "Pyramids",
+		"replaces": "Granary",
+		"uniqueTo": "???",
+		"cost": 20,
 		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"culture": 120,
+		"science": 120,
+		"maintenance": 0,
+		"isNationalWonder": false,
+		"requiredBuildingInAllCities": "Walls",
+		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Breeders",
+		"name": "Underground society",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "???",
 		"cost": 80,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"happiness": 200,
+		"uniques": ["+ 600% Happiness"],
 		"requiredTech": "Engineering"
 	}
 ]
